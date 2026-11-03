@@ -1,4 +1,4 @@
-# 🛡️ HunLab — Next-Gen Cybersecurity Learning Platform
+# 🛡️ HunLab - Next-Gen Cybersecurity Learning Platform
 
 **Master Linux, Python, SOC Operations, and Red/Blue Team Tactics with Hands-On Labs.**
 
